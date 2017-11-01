@@ -1,3 +1,4 @@
 a=default-a
-b=dev-b
-c=dev-c
+b=default-b
+c=default-c
+d=default-d
