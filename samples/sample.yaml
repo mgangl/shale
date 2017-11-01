@@ -1,0 +1,12 @@
+default:
+  a: default-a
+  b: default-b
+  c: default-c
+
+dev:
+  b: dev-b
+  c: dev-c
+
+test:
+  b: test-b
+  c: test-c
