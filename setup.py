@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='shale',
-      version='0.1',
+      version='0.2',
       description='Shale token substitution utility',
       url='https://github.com/mgangl/shale',
       author='Mike Gangl',
